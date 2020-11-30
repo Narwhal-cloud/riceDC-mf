@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329929362317",
+    "firebase_url": "https://ricedc-mf.firebaseio.com",
+    "project_id": "ricedc-mf",
+    "storage_bucket": "ricedc-mf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329929362317:android:90483ddae9689a690d0bc4",
+        "android_client_info": {
+          "package_name": "com.example.ricedc_mf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329929362317-2q4vu3876g1bo1ohsccm89u8uscrrthm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-QX7PT9bSlZZKMQs2OJHxh8nxmvJekA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329929362317-2q4vu3876g1bo1ohsccm89u8uscrrthm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
